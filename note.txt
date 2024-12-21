@@ -1,0 +1,5 @@
+Muốn dùng import thì phải thêm
+"type" :'module' trong package.json
+
+Khởi đầu dự án 
+git remote add tiendatcode https://github.com/toiladat/trello-api.git
